@@ -1,0 +1,63 @@
+{
+    "idToken": [
+        {
+            "name": "email",
+            "essential": false
+        },
+		{
+            "name": "family_name",
+            "essential": false
+        },
+		{
+            "name": "given_name",
+            "essential": false
+        },
+		{
+            "name": "onprem_sid",
+            "essential": false
+        },
+		{
+            "name": "sid",
+            "essential": false
+        },
+		{
+            "name": "upn",
+            "essential": false
+        },
+		{
+            "name": "groups",
+            "additionalProperties": ["dns_domain_and_sam_account_name", "emit_as_roles"]
+        }
+    ],
+    "accessToken": [
+        {
+            "name": "email",
+            "essential": false
+        },
+		{
+            "name": "family_name",
+            "essential": false
+        },
+		{
+            "name": "given_name",
+            "essential": false
+        },
+		{
+            "name": "onprem_sid",
+            "essential": false
+        },
+		{
+            "name": "sid",
+            "essential": false
+        },
+		{
+            "name": "upn",
+            "essential": false
+        },
+        {
+            "name": "groups",
+            "additionalProperties": ["dns_domain_and_sam_account_name", "emit_as_roles"]
+        }
+    ]
+    
+}

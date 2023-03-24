@@ -1,0 +1,9 @@
+[{
+    "allowedMemberTypes": [
+      "User"
+    ],
+    "description": "Readers",
+    "displayName": "Readers",
+    "isEnabled": "true",
+    "value": "Reader"
+}]
