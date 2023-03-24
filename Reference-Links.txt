@@ -1,0 +1,28 @@
+*****************************
+Create Service Principal:-
+*****************************
+https://learn.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest
+
+
+**************************************************
+MS Graph API Rights - All Permissions and IDs:-
+**************************************************
+https://learn.microsoft.com/en-us/graph/permissions-reference#all-permissions-and-ids
+
+
+*******************************************************
+Add MS Graph API Permission and Grant Admin Consent:-
+*******************************************************
+https://learn.microsoft.com/en-us/cli/azure/ad/app/permission?view=azure-cli-latest
+
+
+*********************************
+Add Owner to App Registration:-
+*********************************
+https://learn.microsoft.com/en-us/cli/azure/ad/app/owner?view=azure-cli-latest
+
+
+**********************************************************************
+Add App Roles, Token Configurarion (Optional Claims, Group Claims):-
+**********************************************************************
+https://learn.microsoft.com/en-us/cli/azure/ad/app?view=azure-cli-latest#az-ad-app-update
