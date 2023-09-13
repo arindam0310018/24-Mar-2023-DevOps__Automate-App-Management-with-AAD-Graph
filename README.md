@@ -4,6 +4,16 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __How to Automate App Management with AAD Graph and DevOps.__
 
+I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
+
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Azure Back to School 2023__ | __Virtual__ |
+
+| __EVENT ANNOUNCEMENTS:-__ |
+| --------- |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g8cm4nrcy9w3pn5g9o0i.png) |
+
 | THIS IS HOW IT LOOKS:- |
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btqxz1z27p594sslsodc.jpg) |
